@@ -1,4 +1,4 @@
-package ru.javastudy.springmvc.controllers;
+SDFvgDSvSDfcSDfcSvspackage ru.javastudy.springmvc.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;
